@@ -15,3 +15,9 @@ Sentiment Analysis is one of the most famous applications of Natural Language Pr
     Sentiment Analyzer<br>
  <br>   
 **Project Description:** <br>   
+
+
+
+
+
+[screen-capture.webm](https://user-images.githubusercontent.com/115348828/228713306-ee389560-3e82-45d6-867f-c8cbcb921f07.webm)
